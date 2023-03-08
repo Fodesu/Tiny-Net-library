@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "/home/fodesu/Project/cpp/netlib/lib/libAnemone.pdb"
+  "/home/fodesu/Project/cpp/netlib/lib/libAnemone.so"
+  "CMakeFiles/Anemone.dir/Acceptor.cc.o"
+  "CMakeFiles/Anemone.dir/Acceptor.cc.o.d"
+  "CMakeFiles/Anemone.dir/Buffer.cc.o"
+  "CMakeFiles/Anemone.dir/Buffer.cc.o.d"
+  "CMakeFiles/Anemone.dir/Channel.cc.o"
+  "CMakeFiles/Anemone.dir/Channel.cc.o.d"
+  "CMakeFiles/Anemone.dir/CurrentThread.cc.o"
+  "CMakeFiles/Anemone.dir/CurrentThread.cc.o.d"
+  "CMakeFiles/Anemone.dir/DefaultPoller.cc.o"
+  "CMakeFiles/Anemone.dir/DefaultPoller.cc.o.d"
+  "CMakeFiles/Anemone.dir/EPollPoller.cc.o"
+  "CMakeFiles/Anemone.dir/EPollPoller.cc.o.d"
+  "CMakeFiles/Anemone.dir/EventLoop.cc.o"
+  "CMakeFiles/Anemone.dir/EventLoop.cc.o.d"
+  "CMakeFiles/Anemone.dir/EventLoopThread.cc.o"
+  "CMakeFiles/Anemone.dir/EventLoopThread.cc.o.d"
+  "CMakeFiles/Anemone.dir/EventLoopThreadPool.cc.o"
+  "CMakeFiles/Anemone.dir/EventLoopThreadPool.cc.o.d"
+  "CMakeFiles/Anemone.dir/InetAddress.cc.o"
+  "CMakeFiles/Anemone.dir/InetAddress.cc.o.d"
+  "CMakeFiles/Anemone.dir/Logger.cc.o"
+  "CMakeFiles/Anemone.dir/Logger.cc.o.d"
+  "CMakeFiles/Anemone.dir/Poller.cc.o"
+  "CMakeFiles/Anemone.dir/Poller.cc.o.d"
+  "CMakeFiles/Anemone.dir/Socket.cc.o"
+  "CMakeFiles/Anemone.dir/Socket.cc.o.d"
+  "CMakeFiles/Anemone.dir/TcpConnection.cc.o"
+  "CMakeFiles/Anemone.dir/TcpConnection.cc.o.d"
+  "CMakeFiles/Anemone.dir/TcpServer.cc.o"
+  "CMakeFiles/Anemone.dir/TcpServer.cc.o.d"
+  "CMakeFiles/Anemone.dir/Thread.cc.o"
+  "CMakeFiles/Anemone.dir/Thread.cc.o.d"
+  "CMakeFiles/Anemone.dir/Timestamp.cc.o"
+  "CMakeFiles/Anemone.dir/Timestamp.cc.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Anemone.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 CMakeFiles/test.dir/example/testserver.cc.o -o test  -Wl,-rpath,/home/fodesu/Project/cpp/netlib/lib /home/fodesu/Project/cpp/netlib/lib/libAnemone.so 
